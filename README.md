@@ -39,15 +39,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="30" alt="materialui logo"  />
 </div>
 
-###
-
-<div align="left">
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Mizan-Rifat/Mizan-Rifat/output/snake.svg" alt="Snake animation" />
 
 ###
