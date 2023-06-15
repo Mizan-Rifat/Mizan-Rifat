@@ -4,7 +4,7 @@
 
 📬 Feel free to connect with me or reach out for collaboration, as I'm open to new opportunities and partnerships. Let's create amazing web experiences together!
 
-🌟 Stay curious, keep learning, and never stop coding, Happy Coding! 💻
+🌟 I love coding, I hate coding, I love coding, Happy Coding! 💻
 
 
 
@@ -14,9 +14,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=mizan-rifat&theme=default&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mizan-rifat&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mizan-rifat&theme=default&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=mizan-rifat&icon=0&color=0)](https://visitcount.itsvg.in)
