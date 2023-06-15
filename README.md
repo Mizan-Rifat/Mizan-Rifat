@@ -1,21 +1,18 @@
 👋 Hello there! I'm a Full Stack Web Developer with a focus on Front-End development.
 
-💻 My skill set includes JavaScript, PHP, React, and Laravel. I'm proficient in building responsive and interactive websites using JavaScript and its frameworks. I also have experience with server-side programming using PHP, and I enjoy working with the Laravel framework to develop robust and scalable applications.
-
-🌐 Besides coding, I'm also a strong advocate for clean code, usability, and accessibility. I believe in the power of teamwork and effective communication to achieve outstanding results.
+💻 My skill set includes JavaScript, PHP, React, and Laravel. I'm proficient in building responsive and interactive websites using JavaScript and its frameworks. I also have experience with server-side programming using PHP Laravel.
 
 📬 Feel free to connect with me or reach out for collaboration, as I'm open to new opportunities and partnerships. Let's create amazing web experiences together!
 
 🌟 Stay curious, keep learning, and never stop coding, Happy Coding! 💻
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mizan-Rifat&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mizan-Rifat&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img align="right" height="150" src="http://i.imgur.com/MvMxQ1a.gif"  />
 </div>
 
 ###
 
-<img align="right" height="150" src="http://i.imgur.com/MvMxQ1a.gif"  />
+
 
 ###
 
