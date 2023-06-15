@@ -10,12 +10,6 @@
   <img align="right" height="150" src="http://i.imgur.com/MvMxQ1a.gif"  />
 </div>
 
-###
-
-
-
-###
-
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -35,6 +29,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="30" alt="materialui logo"  />
 </div>
-
-
-###
